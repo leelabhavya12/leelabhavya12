@@ -28,17 +28,11 @@ What I Am Passionate About
 
 Tech Stack
 
-Languages
+Languages, ML & Tools
 
-Show Image Show Image
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,mysql,git,github,fastapi" /> </p>
 
-AI / Machine Learning
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-Frameworks & Tools
-
-Show Image Show Image Show Image Show Image Show Image
+Also working with: Machine Learning Deep Learning Generative AI LangChain Pandas NumPy Streamlit Pydantic Langfuse Jupyter Notebook
 
 Featured Projects
 
@@ -47,8 +41,5 @@ Featured Projects
 💸 Expenses Categorizer — GenAI-Powered Expense Classification A GenAI application using LangChain and Groq's Llama 3.1 to automatically categorize expenses and classify them as Essential/Non-Essential, with a Streamlit UI and Langfuse-based observability. Python LangChain Groq (Llama 3.1) Streamlit Pydantic
 
 🌧️ Exploratory Analysis of Rainfall Data in India for Agriculture Performed EDA on Indian rainfall data using Python, Pandas, and Matplotlib to surface regional patterns relevant to agricultural planning. Python Pandas Matplotlib
-
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leelabhavya12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelabhavya12&theme=tokyonight&hide_border=true" width="48%" /> </p>
 
 Feel free to explore my repos and connect!
