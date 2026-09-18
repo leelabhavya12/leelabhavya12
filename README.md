@@ -1,40 +1,54 @@
-<h1 align="center">Hi 👋, I'm Bhavya Sree</h1> <h3 align="center">AI/ML & Generative AI Enthusiast | Full-Stack (MERN) Developer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+Generative+AI;LangChain+%7C+RAG+%7C+LLMs+%7C+Python;MERN+Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" /> </p>
-🚀 About Me
-🎓 B.Tech student at Annamacharya Institute of Technology, Tirupati
-🤖 Exploring Machine Learning, Deep Learning, and Generative AI
-🧠 Building LLM-powered apps with LangChain, RAG, and Groq (Llama 3.1)
-🌐 Also comfortable across the MERN stack for full-stack projects
-🌱 Currently interning as an AI/ML Intern and previously a Full-Stack (MERN) Intern at SmartBridge
-📫 Reach me at sree172240@gmail.com
-🛠️ Tech Stack
+Hey, thanks for visiting my profile! I'm Rachamadugu Bhavya Sree 👋
+Hi, I'm Rachamadugu Bhavya Sree 👋
+AI/ML Student · Aspiring AI Engineer
 
-Languages & Databases
+Email GitHub LinkedIn Show Image
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+AI/ML Student · Aspiring AI Engineer
+About Me
 
-Machine Learning & Generative AI
+I am a passionate and motivated B.Tech student specializing in Artificial Intelligence and Machine Learning at Annamacharya Institute of Technology, Tirupati.
 
-<p> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> </p>
+I enjoy building intelligent, data-driven applications and am working towards becoming an AI Engineer — turning what I learn in ML, Deep Learning, and Generative AI into practical, working solutions.
 
-Web & Deployment
+🎓 CGPA: 8.5/10
+🤖 Learning Machine Learning, Deep Learning, and Generative AI
+🌱 Currently interning at SmartBridge, working on AI-driven applications
+🎯 Goal: to grow into a skilled AI Engineer
+📫 Open to AI/ML Internship and Entry-Level AI Engineer opportunities
+What I Am Passionate About
 
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> </p>
+🤖 Artificial Intelligence Learning how intelligent systems are built, from data to deployed models.
 
-Tools
+🧠 Machine Learning Training and evaluating predictive models — feature engineering, class balancing, and model comparison for real-world datasets.
 
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
-🔭 Featured Projects
+✨ Generative AI Exploring LLMs, LangChain pipelines, and prompt engineering to build GenAI-powered applications.
 
-🩺 Alzheimer's Disease Prediction using Supervised Machine Learning Built an ML model to predict early-stage Alzheimer's Disease from patient data, using SMOTE for class balancing and comparing Logistic Regression, Random Forest, and KNN classifiers.
+📊 Data Analysis Turning raw data into insights through exploratory data analysis and visualization.
 
-💸 Expenses Categorizer (GenAI-Powered) A GenAI application using LangChain and Groq's Llama 3.1 to automatically classify expenses as Essential/Non-Essential, with a Streamlit interface and Langfuse-based observability.
+Tech Stack
 
-🌧️ Exploratory Analysis of Rainfall Data in India for Agriculture Performed EDA on Indian rainfall data using Python, Pandas, and Matplotlib to surface regional patterns relevant to agricultural planning.
+Languages
 
-🏥 DocSpot — Seamless Appointment Booking for Healthcare A full-stack MERN application for booking doctor appointments, with JWT-based authentication and role-based access for patients and doctors.
+Show Image Show Image
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leelabhavya12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelabhavya12&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelabhavya12&layout=compact&theme=tokyonight&hide_border=true" width="60%" /> </p>
-📫 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/bhavya-rachamadugu-62b678353" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sree172240@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+AI / Machine Learning
 
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Frameworks & Tools
+
+Show Image Show Image Show Image Show Image Show Image
+
+Featured Projects
+
+🩺 Alzheimer's Disease Prediction using Supervised Machine Learning Built an ML model to predict early-stage Alzheimer's Disease from patient data, applying SMOTE for class balancing and comparing Logistic Regression, Random Forest, and KNN classifiers. Python Scikit-learn Pandas SMOTE
+
+💸 Expenses Categorizer — GenAI-Powered Expense Classification A GenAI application using LangChain and Groq's Llama 3.1 to automatically categorize expenses and classify them as Essential/Non-Essential, with a Streamlit UI and Langfuse-based observability. Python LangChain Groq (Llama 3.1) Streamlit Pydantic
+
+🌧️ Exploratory Analysis of Rainfall Data in India for Agriculture Performed EDA on Indian rainfall data using Python, Pandas, and Matplotlib to surface regional patterns relevant to agricultural planning. Python Pandas Matplotlib
+
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leelabhavya12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelabhavya12&theme=tokyonight&hide_border=true" width="48%" /> </p>
+
+Feel free to explore my repos and connect!
